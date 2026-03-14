@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Shake It Up",
+  "base_artist": "倖田來未",
+  "createdAt": "2026-03-14T14:37:20.857007Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Shake It Up And Go",
+      "artist": "B.B. King",
+      "has_synced": true,
+      "path": "select/01_Shake_It_Up_And_Go_B.B._King.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Shake It Up",
+      "artist": "The Cars",
+      "has_synced": true,
+      "path": "select/02_Shake_It_Up_The_Cars.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Shake It Up",
+      "artist": "Bad Company",
+      "has_synced": true,
+      "path": "select/03_Shake_It_Up_Bad_Company.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Shake It Up",
+      "artist": "Lee Aaron",
+      "has_synced": false,
+      "path": "select/04_Shake_It_Up_Lee_Aaron.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Shake It Up",
+      "artist": "New Order",
+      "has_synced": true,
+      "path": "select/05_Shake_It_Up_New_Order.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Shake It Up",
+      "artist": "The Cars",
+      "has_synced": true,
+      "path": "select/06_Shake_It_Up_The_Cars.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Shake It Up",
+      "artist": "Trippie Redd",
+      "has_synced": true,
+      "path": "select/07_Shake_It_Up_Trippie_Redd.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "HUMANOID / SHAKE IT UP",
+      "artist": "Turnstile",
+      "has_synced": false,
+      "path": "select/08_HUMANOID___SHAKE_IT_UP_Turnstile.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Shake It Up",
+      "artist": "Kumi Koda",
+      "has_synced": false,
+      "path": "select/09_Shake_It_Up_Kumi_Koda.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Shake It Up",
+      "artist": "Koda Kumi",
+      "has_synced": false,
+      "path": "select/10_Shake_It_Up_Koda_Kumi.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Shake It Up",
+      "artist": "The Cars",
+      "has_synced": true,
+      "path": "select/11_Shake_It_Up_The_Cars.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Shake It Up Tonight",
+      "artist": "Cheryl Lynn",
+      "has_synced": true,
+      "path": "select/12_Shake_It_Up_Tonight_Cheryl_Lynn.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Shake It Up",
+      "artist": "Cars",
+      "has_synced": true,
+      "path": "select/13_Shake_It_Up_Cars.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Shake It Up (From \"Shake It Up\")",
+      "artist": "Selena Gomez",
+      "has_synced": true,
+      "path": "select/14_Shake_It_Up_(From__Shake_It_Up_)_Selena_Gomez.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Shake It Up - From \"Shake It Up\"",
+      "artist": "Selena Gomez",
+      "has_synced": true,
+      "path": "select/15_Shake_It_Up_-_From__Shake_It_Up_Selena_Gomez.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Shake It Up",
+      "artist": "The Cars",
+      "has_synced": false,
+      "path": "select/16_Shake_It_Up_The_Cars.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Shake It Up",
+      "artist": "Pitbull feat. Oobie",
+      "has_synced": false,
+      "path": "select/17_Shake_It_Up_Pitbull_feat._Oobie.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Shake It Up",
+      "artist": "倖田 來未",
+      "has_synced": false,
+      "path": "select/pl_01_Shake_It_Up_倖田_來未.txt"
+    }
+  ]
+}
